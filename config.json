@@ -1,0 +1,12 @@
+{
+    "clone_directory": "cloned_repooo",
+    "allowed_failures": {
+        "gitignore_check": false,
+        "license_check": false,
+        "workflow_check": false,
+        "test_files_check": false,
+        "gitleaks_check": false,
+        "commits_check": false,
+        "contributors_check": false
+    }
+}
