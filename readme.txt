@@ -15,19 +15,18 @@ Ensure the following dependencies are installed:
 
 
 
-First step, traverse to the folder with the code present in.
-
-cd <repository-directory>
-
-
 Usage
 
 Running on Windows (Command Prompt or PowerShell)
+
+cd <repository-directory>
 
 python code.py <repository_url_or_local_path>
 
 
 Running on Linux (Terminal)
+
+cd <repository-directory>
 
 python3 code.py <repository_url_or_local_path>
 
