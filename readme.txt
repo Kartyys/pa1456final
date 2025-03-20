@@ -7,11 +7,11 @@ This script analyzes a given GitHub repository or local repository directory for
 - Counting workflow YAML files
 - Analyzing commit history
 
-## Dependencies
+Dependencies
 
 Ensure the following dependencies are installed:
-- **Docker** (required for running Git and Gitleaks inside containers)
-- **Python 3** (recommended, for running the script)
+- Docker (required for running Git and Gitleaks inside containers)
+- Python 3 (recommended, for running the script)
 
 
 
@@ -41,7 +41,7 @@ python code.py https://github.com/example/repo.git
 
 To analyze a local repository:
 
-python checkpathurl.py /path/to/local/repo
+python code.py /path/to/local/repo
 
 
 Configuration
